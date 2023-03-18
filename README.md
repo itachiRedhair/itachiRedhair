@@ -1,4 +1,4 @@
-# Hi there, I'm Akshay Milmile! 👋
+# Hi there, I'm Akshay! 👋
 
 I'm a generalist software engineer with 5+ years of hands-on experience in Cloud, DevOps, and modern web technologies, currently working as a Senior Software Engineer at Jeeves.
 
